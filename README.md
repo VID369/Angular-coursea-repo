@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 
-=======
 hello kon papa
